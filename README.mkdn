@@ -1,0 +1,15 @@
+Description
+-----------
+
+    Lia is a simple computer (as it is defined in “Computer Science - A Modern Introduction” Second Edition
+    by Les Goldschlager and Andrew Lister, Prentice Hall) simulator and assembly editor written in pure Java.
+
+    It enables you to write/edit/save your “assembly” files and then execute the code using the built-in simulator.
+
+    A list representing the memory contents is available at all times so the programmer can see what is really happening.
+
+License
+-------
+
+    Lia and its source code is distributed under the terms of the MIT License (http://www.opensource.org/licenses/mit-license.php).
+    
